@@ -1,0 +1,6 @@
+ordi1.domaine1 1.1.1.1
+ordi2.domaine1 1.1.1.2
+ordi3.domaine1 1.1.1.3
+ordi4.domaine2 2.2.2.1
+ordi5.domaine2 2.2.2.2
+ordi6.domaine3 3.3.3.1
