@@ -1,9 +1,9 @@
 # Java projects
 
 ## Table des matières
-- [Logiciel de dessin 2D](#Logiciel-de-dessin-2D)
-- [Simulateur de requetes](#Simulateur-de-requetes)
-- [Simulateur-d'interrogation-DNS](#Simulateur-d'interrogation-DNS)
+- [Logiciel de dessin 2D](https://github.com/Rafraf-bot2/Java-projects/tree/master/src/main/java/fr/uvsq/cprog/dessin)
+- [Simulateur de requetes](https://github.com/Rafraf-bot2/Java-projects/tree/master/src/main/java/fr/uvsq/cprog/requetes)
+- [Simulateur-d'interrogation-DNS](https://github.com/Rafraf-bot2/Java-projects/tree/master/src/main/java/fr/uvsq/cprog/dns)
 
 ## Logiciel de dessin 2D
 Un logiciel de dessin en `CLI`.
